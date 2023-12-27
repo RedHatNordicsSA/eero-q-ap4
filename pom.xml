@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>quarkus-app</name>
-    <description>A cool quarkus app</description>
+    <description>A very cool quarkus app</description>
 
     <properties>
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
