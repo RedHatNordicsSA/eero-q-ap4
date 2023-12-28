@@ -7,7 +7,8 @@ metadata:
     argocd/app-name: eero-q-ap4-dev
     backstage.io/kubernetes-id: eero-q-ap4
     backstage.io/kubernetes-namespace: eero-q-ap4-dev
-    janus-idp.io/tekton-enabled : 'true'
+    janus-idp.io/tekton-enabled: 'true'
+    janus-idp.io/tekton: eero-q-ap4-dev
     backstage.io/source-location: url:https://github.com/RedHatNordicsSA/eero-q-ap4
     backstage.io/techdocs-ref: url:https://github.com/RedHatNordicsSA/eero-q-ap4
     gitlab.com/project-slug: RedHatNordicsSA/eero-q-ap4
